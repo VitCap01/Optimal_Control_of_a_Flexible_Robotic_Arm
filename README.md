@@ -21,7 +21,7 @@ text
 ├── Reg_Newton_Method.py  # Regularized Newton's method implementation
 ├── main_task_1.ipynb     # Jupyter notebook for Task 1
 ├── main_tasks_2-5.ipynb  # Jupyter notebook for Tasks 2-5
-└── README.md             # This file
+└── README.txt             
 ```
 
 ---
