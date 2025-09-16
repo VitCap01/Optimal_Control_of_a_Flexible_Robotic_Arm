@@ -67,7 +67,7 @@ text
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/VitCap01/Optimal_Control_of_a_Flexible_Robotic_Arm
 cd flexible-robotic-arm-control
 ```
 
