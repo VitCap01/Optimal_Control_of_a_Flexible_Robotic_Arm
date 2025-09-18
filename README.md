@@ -54,7 +54,13 @@ text
 The robotic arm execution can also be visualized through a **Pygame animation**.  
 Below is a snapshot of the arm during trajectory tracking:
 
-<img src="figs/animation4.png" alt="Robotic Arm Animation" width="400">
+<p align="center">
+  <img src="figs/animation1.png" alt="Frame 1" width="200"/>
+  <img src="figs/animation2.png" alt="Frame 2" width="200"/>
+  <img src="figs/animation3.png" alt="Frame 3" width="200"/>
+  <img src="figs/animation4.png" alt="Frame 4" width="200"/>
+</p>
+
 
 
 ---
