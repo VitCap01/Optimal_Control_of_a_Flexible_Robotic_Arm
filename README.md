@@ -49,6 +49,14 @@ text
 * Comprehensive plotting of trajectories and tracking errors
 * Interactive Pygame animation of the robotic arm
 
+## Animation
+
+The robotic arm execution can also be visualized through a **Pygame animation**.  
+Below is a snapshot of the arm during trajectory tracking:
+
+<img src="figs/animation4.png" alt="Robotic Arm Animation" width="400">
+
+
 ---
 
 ## Requirements
